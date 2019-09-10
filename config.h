@@ -2,28 +2,28 @@
 /* config.h.in.  Generated from configure.ac by autoheader.  */
 
 /* Define to libavcodec major version. */
-#define FF_AVCODEC_V "58"
+#define FF_AVCODEC_V "57"
 
 /* Define to libavfilter major version. */
-#define FF_AVFILTER_V "7"
+#define FF_AVFILTER_V "6"
 
 /* Define to libavformat major version. */
-#define FF_AVFORMAT_V "58"
+#define FF_AVFORMAT_V "57"
 
 /* Define to libavutil major version. */
-#define FF_AVUTIL_V "56"
+#define FF_AVUTIL_V "55"
 
 /* Define to libswscale major version. */
-#define FF_POSTPROC_V "55"
+#define FF_POSTPROC_V "54"
 
 /* Define to libswresample major version. */
-#define FF_SWRESAMPLE_V "3"
+#define FF_SWRESAMPLE_V "2"
 
 /* Define to libswscale major version. */
-#define FF_SWSCALE_V "5"
+#define FF_SWSCALE_V "4"
 
 /* Define to 1 if FFmpeg should be loaded dynamically. */
-#define HAVE_FF_DYNLOAD 1
+/* #undef HAVE_FF_DYNLOAD */
 
 /* Define to 1 if you have the <inttypes.h> header file. */
 #define HAVE_INTTYPES_H 1
