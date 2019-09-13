@@ -1,7 +1,7 @@
 /*
  * lib1770.h
  * Copyright (C) 2014 Peter Belkner <pbelkner@users.sf.net>
- * Copyright (C) 2019 Peter Belkner <tilde@ultros.pro>
+ * Copyright (C) 2019 Tilde Joy <tilde@ultros.pro>
 
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public
