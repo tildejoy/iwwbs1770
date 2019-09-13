@@ -60,8 +60,8 @@ static const ffchar_t *bg_version(const ffchar_t *path, FILE *f)
   FFPUTC(' ',f);
   _FFPUTS(FFSTR(PACKAGE_VERSION),f);
 #endif // ]
-  FFPUTS(", Copyright (C) Peter Belkner 2014-2019.\n",f),
-  FFPUTS(", Copyright (C) Tilde Joy 2019.\n",f),
+  FFPUTS(",\nCopyright (C) Peter Belkner 2014-2019",f),
+  FFPUTS(",\nCopyright (C) Tilde Joy 2019.\n",f),
 #if defined (IWWBS1770_INJURY) // [
   _FFPUTS(FFSTR(IWWBS1770_INJURY),f);
 #endif // ]
